@@ -17,7 +17,7 @@
     props: ['image'],
     methods: {
       handleClick() {
-        // Handle click on the image (e.g., open in a lightbox)
+        // handles click on the image
       },
       handleDragEnd(event) {
         const node = event.currentTarget;
