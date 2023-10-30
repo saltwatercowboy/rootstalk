@@ -13,7 +13,7 @@ app.use(express.json());  // for parsing application/json
 
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
-        cb(null, 'uploads/') // Set your uploads directory here
+        cb(null, 'uploads/') 
     },
     filename: (req, file, cb) => {
         cb(null, Date.now() + '-' + file.originalname)
