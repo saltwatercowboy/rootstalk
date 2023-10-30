@@ -27,6 +27,5 @@ export default {
       :style="{ width: colNote.width + 'px', height: colNote.height + 'px', backgroundColor: colNote.fill }"
       @dblclick="deleteColNote"
     >
-      <!-- Note contents go here. You can add a textarea or whatever content you want. -->
     </div>
   </template>
