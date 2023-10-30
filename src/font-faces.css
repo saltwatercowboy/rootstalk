@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'iAWriterQuattroS-Regular';
+    src: url('/assets/fonts/iAWriterQuattroS-Regular.eot'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/iAWriterQuattroS-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/assets/fonts/iAWriterQuattroS-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/assets/fonts/iAWriterQuattroS-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+         url('/assets/fonts/iAWriterQuattroS-Regular.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/assets/fonts/iAWriterQuattroS-Regular.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'iAWriterQuattroS-Italic';
+    src: url('/assets/fonts/iAWriterQuattroS-Italic.eot'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/iAWriterQuattroS-Italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/assets/fonts/iAWriterQuattroS-Italic.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/assets/fonts/iAWriterQuattroS-Italic.woff') format('woff'), /* Pretty Modern Browsers */
+         url('/assets/fonts/iAWriterQuattroS-Italic.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/assets/fonts/iAWriterQuattroS-Italic.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'iAWriterQuattroS-Bold';
+    src: url('/assets/fonts/iAWriterQuattroS-Bold.eot'); /* IE9 Compat Modes */
+    src: url('/assets/fonts/iAWriterQuattroS-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('/assets/fonts/iAWriterQuattroS-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+         url('/assets/fonts/iAWriterQuattroS-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+         url('/assets/fonts/iAWriterQuattroS-Bold.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('/assets/fonts/iAWriterQuattroS-Bold.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: normal;
+}
