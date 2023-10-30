@@ -153,7 +153,7 @@ export default {
                         'Content-Type': 'multipart/form-data'
                     }
                 }).then(response => {
-                    const imageUrl = response.data.path; // this will now be a complete URL
+                    const imageUrl = response.data.path;
                     this.addImageNote(imageUrl);
                 }).catch(error => {
                     console.error('Error uploading image:', error);
